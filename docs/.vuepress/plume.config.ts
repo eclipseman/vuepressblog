@@ -38,7 +38,7 @@ export default defineThemeConfig({
    */
   profile: {
     avatar: 'https://theme-plume.vuejs.press/plume.png',
-    name: 'tech-blog',
+    name: 'Tech-Vision',
     description: 'I&#x27;ll be with you from dusk till dawn',
     // circle: true,
     // location: '',

@@ -5,7 +5,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
-  title: 'tech-blog',
+  title: 'Tech-Vision',
   description: 'I&#x27;ll be with you from dusk till dawn',
 
   bundler: viteBundler(),
