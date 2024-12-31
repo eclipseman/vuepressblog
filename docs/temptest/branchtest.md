@@ -6,6 +6,7 @@ tags:
   - test
   - markdown
   - demo
+permalink: /article/m629t022/
 ---
 
 # branchtest
@@ -15,3 +16,6 @@ bash code
 ```bash
 echo "Hello World!"
 ```
+
+
+this is a master commit test
